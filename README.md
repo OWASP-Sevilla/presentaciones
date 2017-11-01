@@ -3,9 +3,6 @@
 
 ### Presentaciones 
 
-* Nombre del ponente, (presentación)[enlace]
-* Nombre del ponente, (presentación)[enlace]
-* Nombre del ponente, (presentación)[enlace]
-* Nombre del ponente, (presentación)[enlace]
-* Nombre del ponente, (presentación)[enlace]
-* Nombre del ponente, (presentación)[enlace]
+* Nombre del ponente, Presentación [NombreEnlace](link)
+* Nombre del ponente, Presentación [NombreEnlace](link)
+* Nombre del ponente, Presentación [NombreEnlace](link)
